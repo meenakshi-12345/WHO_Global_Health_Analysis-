@@ -77,11 +77,15 @@ Several indicators contained 20–30% missing values, emphasizing the importance
 Mortality-related metrics showed strong regional concentration, indicating unequal access to healthcare resources
 
 Repository Structure
+
+```
 |-- Raw Dataset in .csv format
 |-- WHO_GolbalHealth.ipynb   # Jupyter notebook with full analysis
 |-- Executive Summary
 |-- README.md               # Project documentation
-How to Run the Project
+
+```
+How to Run the Project - use Jupityer notebook or google colab.
 
 few Plots - 
 Dustribution Of GDP_Per_Capita (USD)
